@@ -1,3 +1,17 @@
+html{
+    background-color: aquamarine;
+}
 .nav {
     display: inline-block;
+    block-size: auto;
+}
+.footer{
+    display: inline-block;
+    clear: both;
+}
+.phone{
+display:inline-block;
+}
+.email{
+display: inline-block;
 }
